@@ -13,7 +13,7 @@ Note: This project is built using OOP.
 list coutses tells all courses that doctor have and all course code
 ![Screenshot 2024-07-22 002145](https://github.com/user-attachments/assets/be004e56-b4c0-43dd-81dd-3a2dc680cc35)
 
-● If doctor selects ###View_Course ,his menu may be like 
+● If doctor selects View_Course ,his menu may be like 
 ○ "List Assignments", "Create Assignment", "View Assignment", "Back" ○ Back opton bring him back to the main menu 
 
 
@@ -26,7 +26,7 @@ list coutses tells all courses that doctor have and all course code
 view solution before student add Assignment solution
 ![Screenshot 2024-07-22 002321](https://github.com/user-attachments/assets/b0c5d8a2-efd5-4611-987a-cf37b6563ddc)
 
-○ ###Back opton bring him back to the main menu 
+○ Back opton bring him back to the main menu 
 ![Screenshot 2024-07-22 002337](https://github.com/user-attachments/assets/7eb69af5-b183-4c54-b43d-3053dca631b1)
 
 
